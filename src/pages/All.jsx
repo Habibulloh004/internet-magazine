@@ -3,7 +3,7 @@ import Nav from './components/nav/nav'
 
 function All() {
   return (
-    <div>qalesan</div>
+    <div></div>
   )
 }
 
