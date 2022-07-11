@@ -1,9 +1,10 @@
-import nav from "./pages/components/nav/nav";
+import React from "react";
+import Header from "./pages/components/header/Header";
 
 function App() {
   return (
-    <div className="App">
-        <All />
+    <div>
+      <Header />
     </div>
   );
 }
